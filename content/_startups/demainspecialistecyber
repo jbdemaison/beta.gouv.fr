@@ -1,0 +1,62 @@
+---
+mission: Former les jeunes aux enjeux de cybersécurité et susciter des vocations
+incubator: lab-innov-anssi
+link: https://www.demainspecialistecyber.gouv.fr
+repository: https://github.com/betagouv/anssi-demain-specialiste-cyber
+contact: lab-innov@monservicesecurise.beta.gouv.fr
+title: MonServiceSécurisé
+sponsors:
+  - /organisations/anssi
+stats: true
+stats_url: https://www.monservicesecurise.ssi.gouv.fr/statistiques
+phases:
+  - name: investigation
+    start: 2022-09-04
+  - name: construction
+    start: 2023-06-01
+  - name: acceleration
+    start: 2024-10-01
+usertypes:
+  - élèves au collège, lycée, supérieur
+thematiques:
+  - Sécurité informatique
+  - Education
+accessibility_status: non conforme
+
+---
+## En phase d'accélération
+
+- **[Accéder à DemainSpécialisteCyber](https://www.demainspecialistecyber.gouv.fr)**
+
+## L'ENJEU
+
+Le développement de la formation en matière de cybersécurité est essentiel à l’émergence des spécialistes cyber de demain.
+La pénurie de compétences en la matière est, en effet, estimée aujourd’hui à plusieurs dizaines de milliers de postes vacants et devrait s’aggraver à l’avenir.
+Former au plus tôt les jeunes aux enjeux de la cybersécurité et susciter des vocations pour ce domaine est donc prioritaire pour la sécurité de la Nation.
+Cela est d'autant plus vrai s’agissant des femmes trop peu représentées dans la filière.
+
+Tout prouve, en outre, l’intérêt croissant des jeunes pour ce domaine mais un manque d’information et d’accompagnement.
+Les questions les plus fréquemment posées sur internet avec le mot clé « cybersécurité » : « Comment travailler dans la cybersécurité ? »,
+« Quelles études pour travailler dans la cybersécurité ? », « Quel bac pour la cybersécurité ? » « Comment se former à la cybersécurité ? ».
+
+En France depuis plusieurs années, plusieurs acteurs institutionnels se mobilisent sur ce sujet, à l’instar du ministère de l’Éducation nationale (MEN),
+l’Agence nationale de la sécurité des systèmes d’information (ANSSI) et plusieurs ministères ainsi que le Campus cyber. La diversité des actions menées souligne l’importance de
+d'un plus grand rayonnement des actions menées en vue de renforcer leur impact.
+
+## LA SOLUTION
+
+L’ANSSI et le MEN ont lancé en 2023 l’initiative DemainSpécialisteCyber, en coopération avec le Campus Cyber et en partenariat avec de nombreux ministères.
+DemainSpécialisteCyber c’est :
+- **Une équipe agile** composée d’agents de l’ANSSI et du MENJ travaillant en coopération avec d’autres acteurs gouvernementaux et de l’écosystème Cyber, au premier rang desquels le studio des communs du Campus Cyber.
+- **Une « marque »** pour incarner l’ambition de la France en faveur de la formation et des vocations pour la cybersécurité.
+- **Une plateforme d’information** réunissant différentes ressources destinées 
+    - Aux jeunes souhaitant se renseigner sur les métiers mais aussi de se former et de s’entraîner à la cybersécurité dont des affiches et
+vidéos des « métiers cyber » attractifs et des témoignages de spécialistes cyber ; la plateforme TOP du Campus Cyber
+permettant aux jeunes de relever des défis « OSINT » (source ouverte) sur des enjeux de cybersécurité.
+    - Aux enseignants souhaitant former leurs élèves, à l’instar de [CyberEnJeux](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu)**, dispositif pédagogique innovant imaginé
+par le Lab d’innovation de l’ANSSI et conçu avec le bureau de l’innovation pédagogique du MEN permettant de former des élèves à la cybersécurité dans le cadre de leurs enseignements,
+par la création de « jeux » sur la cybersécurité, par les élèves eux-mêmes. CyberEnJeux est désormais la ressource de référence de Cycle 4 sur la cybersécurité.
+    - Accédant à une liste personnalisée de mesures de sécurité élaborée par l'ANSSI et obtenir une évaluation indicative du niveau de sécurité du service concerné (l'indice cyber),
+sur la base des mesures de sécurité déclarées par l'équipe comme ayant été mises en œuvre.
+
+[Découvrir DemainSpécialisteCyber](https://www.demainspecialistecyber.gouv.fr/)
